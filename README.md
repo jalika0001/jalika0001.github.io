@@ -1,2 +1,2 @@
-# jalika0001.github.io.
+# jalika0001.github.io
 testing hosting portfolio.
